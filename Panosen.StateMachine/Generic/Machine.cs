@@ -4,7 +4,7 @@ using System.Text;
 
 using Panosen.Collections.Generic;
 
-namespace Savory.StateMachine.Generic
+namespace Panosen.StateMachine.Generic
 {
     /// <summary>
     /// 状态机

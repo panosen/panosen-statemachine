@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Savory.StateMachine.Generic;
+using Panosen.StateMachine.Generic;
 
-namespace Savory.StateMachine.MSTest
+namespace Panosen.StateMachine.MSTest
 {
     [TestClass]
     public class UnitTest1
